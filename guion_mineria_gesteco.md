@@ -4,7 +4,7 @@
 > + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 
-![portada](https://github.com/aprendiendo-cosas/C_mineria_gesteco/blob/main/images/mineria.jpg?raw=true) 
+![portada](https://github.com/aprendiendo-cosas/C_mineria_gesteco/blob/2022_2023/images/mineria.jpg?raw=true) 
 
 ## Ubicación
 
@@ -39,12 +39,22 @@ Se refiere a los conceptos de la ecología que abordamos en esta parada:
 ## Algunas fotos
 
 
-![1](https://github.com/aprendiendo-cosas/C_mineria_gesteco/blob/main/images/1.jpg?raw=true) 
+![1](https://github.com/aprendiendo-cosas/C_mineria_gesteco/blob/2022_2023/images/1.jpg?raw=true) 
 
-![2](https://github.com/aprendiendo-cosas/C_mineria_gesteco/blob/main/images/2.jpg?raw=true) 
+![2](https://github.com/aprendiendo-cosas/C_mineria_gesteco/blob/2022_2023/images/2.jpg?raw=true) 
 
-![3](https://github.com/aprendiendo-cosas/C_mineria_gesteco/blob/main/images/3.jpg?raw=true) 
+![3](https://github.com/aprendiendo-cosas/C_mineria_gesteco/blob/2022_2023/images/3.jpg?raw=true) 
 
-![4](https://github.com/aprendiendo-cosas/C_mineria_gesteco/blob/main/images/4.jpg?raw=true) 
+![4](https://github.com/aprendiendo-cosas/C_mineria_gesteco/blob/2022_2023/images/4.jpg?raw=true) 
 
-![5](https://github.com/aprendiendo-cosas/C_mineria_gesteco/blob/main/images/5.jpg?raw=true) 
+![5](https://github.com/aprendiendo-cosas/C_mineria_gesteco/blob/2022_2023/images/5.jpg?raw=true) 
+
+
+
+
+
+## Vídeo realizado por los estudiantes
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0yOID741qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
